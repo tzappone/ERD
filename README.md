@@ -1,6 +1,6 @@
 # Crow's Foot Entity Relationship Diagram (ERD)
 ## Description
-Below is a crow's foot notation ERD that I created to support the business operations of a mechanic shop. 
+Below is a crow's foot notation ERD that I created to support the business operations of a smart phone repair shop. 
 
 **Visio was used for the creation of the ERD.**
 
